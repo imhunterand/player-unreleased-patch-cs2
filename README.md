@@ -9,4 +9,9 @@ Counter-Strike 2 Player Text Modification
 
 ![](5b3936f096718.webp)
 
+## If not working?
+ - **`csgo_textmod.txt`** is placed in the right folder, it needs to be inside the CS2 `game\csgo\resource` folder
+ - Launch option is spelled correctly, this is an example that will work `-novid -language textmod`
+
+
 ![](screenshots.png)
